@@ -22,6 +22,11 @@ export default {
         stroke: {
           1: "#26242C",
         },
+        heading: {
+          1: "#fbc574",
+          2: "#ac6aff",
+          3: "#ff776f",
+        },
         n: {
           1: "#FFFFFF",
           2: "#CAC6DD",
